@@ -1,3 +1,5 @@
+mod piece;
+
 pub struct Engine {
     board: Board,
 }
